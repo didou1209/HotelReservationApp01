@@ -1,4 +1,4 @@
-package com.example.appmob;
+package com.example.hotelreservationapp;
 
 import org.junit.Test;
 
