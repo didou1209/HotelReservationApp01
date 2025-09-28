@@ -11,15 +11,32 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppMob">
+
+        <!-- Admin -->
         <activity
-            android:name=".MainActivity01"
+            android:name=".ui.AdminActivity"
+            android:exported="false" />
+
+        <!-- Register -->
+        <activity
+            android:name=".ui.RegisterActivity"
+            android:exported="false" />
+
+        <!-- Main (écran client après login) -->
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="false" />
+
+        <!-- Login (écran de démarrage) -->
+        <activity
+            android:name=".ui.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
