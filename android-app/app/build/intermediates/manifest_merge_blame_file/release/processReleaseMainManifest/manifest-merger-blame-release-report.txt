@@ -1,0 +1,120 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.hotelapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:3:5-67
+11-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:4:5-79
+12-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:4:22-76
+13    <!-- Required by lint when targeting Android 13+ with libraries that can post notifications (e.g., Glide NotificationTarget). -->
+14    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+14-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:6:5-77
+14-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:6:22-74
+15
+16    <permission
+16-->[androidx.core:core:1.9.0] C:\Users\Admin\.gradle\caches\8.13\transforms\552f2e1b9fdfd30015801c7c789c05b9\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.hotelapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.9.0] C:\Users\Admin\.gradle\caches\8.13\transforms\552f2e1b9fdfd30015801c7c789c05b9\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.9.0] C:\Users\Admin\.gradle\caches\8.13\transforms\552f2e1b9fdfd30015801c7c789c05b9\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.hotelapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.9.0] C:\Users\Admin\.gradle\caches\8.13\transforms\552f2e1b9fdfd30015801c7c789c05b9\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.9.0] C:\Users\Admin\.gradle\caches\8.13\transforms\552f2e1b9fdfd30015801c7c789c05b9\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:8:5-33:19
+23        android:name="com.example.hotelapp.MyApp"
+23-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:9:9-30
+24        android:allowBackup="true"
+24-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:10:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.9.0] C:\Users\Admin\.gradle\caches\8.13\transforms\552f2e1b9fdfd30015801c7c789c05b9\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+26        android:extractNativeLibs="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:12:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:11:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:13:9-54
+30        android:theme="@style/Theme.HotelApp"
+30-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:14:9-46
+31        android:usesCleartextTraffic="true" >
+31-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:15:9-44
+32        <activity
+32-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:16:9-18:40
+33            android:name="com.example.hotelapp.MainActivity"
+33-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:17:13-41
+34            android:exported="false" />
+34-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:18:13-37
+35        <activity android:name="com.example.hotelapp.activities.LoginActivity" />
+35-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:19:9-62
+35-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:19:19-59
+36        <activity
+36-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:20:9-25:20
+37            android:name="com.example.hotelapp.activities.SplashActivity"
+37-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:20:19-60
+38            android:exported="true" >
+38-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:20:61-84
+39            <intent-filter>
+39-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:21:13-24:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:22:17-69
+40-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:22:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:23:17-77
+42-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:23:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.example.hotelapp.activities.HotelsActivity" />
+45-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:26:9-63
+45-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:26:19-60
+46        <activity android:name="com.example.hotelapp.activities.HotelDetailsActivity" />
+46-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:27:9-69
+46-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:27:19-66
+47        <activity android:name="com.example.hotelapp.activities.ReservationsActivity" />
+47-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:28:9-69
+47-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:28:19-66
+48        <activity android:name="com.example.hotelapp.activities.PaymentActivity" />
+48-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:29:9-64
+48-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:29:19-61
+49        <activity android:name="com.example.hotelapp.activities.BookingConfirmationActivity" />
+49-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:30:9-76
+49-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:30:19-73
+50        <activity android:name="com.example.hotelapp.activities.ProfileActivity" />
+50-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:31:9-64
+50-->C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\AndroidManifest.xml:31:19-61
+51        <!-- CrashActivity retirée du flux de prod -->
+52        <provider
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\8.13\transforms\6be7a736ea2ccc37e216583c405ff20f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+53            android:name="androidx.startup.InitializationProvider"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\8.13\transforms\6be7a736ea2ccc37e216583c405ff20f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+54            android:authorities="com.example.hotelapp.androidx-startup"
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\8.13\transforms\6be7a736ea2ccc37e216583c405ff20f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+55            android:exported="false" >
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\8.13\transforms\6be7a736ea2ccc37e216583c405ff20f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+56            <meta-data
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\8.13\transforms\6be7a736ea2ccc37e216583c405ff20f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\8.13\transforms\6be7a736ea2ccc37e216583c405ff20f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+58                android:value="androidx.startup" />
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\.gradle\caches\8.13\transforms\6be7a736ea2ccc37e216583c405ff20f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+59            <meta-data
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Admin\.gradle\caches\8.13\transforms\f085e8d76a3b31b3d1865d26fc311e3b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Admin\.gradle\caches\8.13\transforms\f085e8d76a3b31b3d1865d26fc311e3b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+61                android:value="androidx.startup" />
+61-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Admin\.gradle\caches\8.13\transforms\f085e8d76a3b31b3d1865d26fc311e3b\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+62        </provider>
+63    </application>
+64
+65</manifest>

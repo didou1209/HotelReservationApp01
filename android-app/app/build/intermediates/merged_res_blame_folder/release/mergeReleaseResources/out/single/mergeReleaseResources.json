@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_item_reservation.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/item_reservation.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/drawable_bg_pager_badge.xml.flat",
+        "source": "com.example.hotelapp-main-30:/drawable/bg_pager_badge.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_menu_avatar_action.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/menu_avatar_action.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/drawable_gradient_bottom.xml.flat",
+        "source": "com.example.hotelapp-main-30:/drawable/gradient_bottom.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_reservation_form.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_reservation_form.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_main.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_search_results.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_search_results.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/drawable_ic_avatar_circle.xml.flat",
+        "source": "com.example.hotelapp-main-30:/drawable/ic_avatar_circle.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/drawable_ic_launcher_monochrome.xml.flat",
+        "source": "com.example.hotelapp-main-30:/drawable/ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_profile.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/menu_menu_with_profile.xml.flat",
+        "source": "com.example.hotelapp-main-30:/menu/menu_with_profile.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.hotelapp-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_reservations.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_reservations.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_item_carousel_image.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/item_carousel_image.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/menu_menu_main.xml.flat",
+        "source": "com.example.hotelapp-main-30:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.hotelapp-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_login.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_payment.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/drawable_bg_rating_badge.xml.flat",
+        "source": "com.example.hotelapp-main-30:/drawable/bg_rating_badge.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_hotel_details.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_hotel_details.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_item_room.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/item_room.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/drawable_placeholder_hotel.xml.flat",
+        "source": "com.example.hotelapp-main-30:/drawable/placeholder_hotel.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.hotelapp-main-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_splash.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/drawable_ic_star_small.xml.flat",
+        "source": "com.example.hotelapp-main-30:/drawable/ic_star_small.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_item_hotel.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/item_hotel.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/menu_popup_profile.xml.flat",
+        "source": "com.example.hotelapp-main-30:/menu/popup_profile.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_booking_confirmation.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_booking_confirmation.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_room.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_room.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_activity_hotels.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/activity_hotels.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/layout_item_image_pager.xml.flat",
+        "source": "com.example.hotelapp-main-30:/layout/item_image_pager.xml"
+    },
+    {
+        "merged": "com.example.hotelapp-release-29:/menu_menu_hotels.xml.flat",
+        "source": "com.example.hotelapp-main-30:/menu/menu_hotels.xml"
+    }
+]

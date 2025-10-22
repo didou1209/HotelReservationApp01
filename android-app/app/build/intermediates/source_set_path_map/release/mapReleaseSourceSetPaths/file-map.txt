@@ -1,0 +1,33 @@
+com.example.hotelapp-jetified-glide-4.16.0-0 C:\Users\Admin\.gradle\caches\8.13\transforms\1692b79e10a67f375b2d2dfa75571987\transformed\jetified-glide-4.16.0\res
+com.example.hotelapp-jetified-annotation-experimental-1.3.0-1 C:\Users\Admin\.gradle\caches\8.13\transforms\2ef97694e72f72e16dd0d65922e7bc0a\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.hotelapp-jetified-lifecycle-viewmodel-savedstate-2.5.1-2 C:\Users\Admin\.gradle\caches\8.13\transforms\479d4fe55725be64cd8eb304b3f03fb8\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.hotelapp-appcompat-1.6.1-3 C:\Users\Admin\.gradle\caches\8.13\transforms\4e31ecd7d00dc8c7bdda14324fb5996a\transformed\appcompat-1.6.1\res
+com.example.hotelapp-core-1.9.0-4 C:\Users\Admin\.gradle\caches\8.13\transforms\552f2e1b9fdfd30015801c7c789c05b9\transformed\core-1.9.0\res
+com.example.hotelapp-recyclerview-1.1.0-5 C:\Users\Admin\.gradle\caches\8.13\transforms\6948665222a36c122314c683f35d4102\transformed\recyclerview-1.1.0\res
+com.example.hotelapp-drawerlayout-1.1.1-6 C:\Users\Admin\.gradle\caches\8.13\transforms\6b9cf71954bc686e7f8b234592e75955\transformed\drawerlayout-1.1.1\res
+com.example.hotelapp-jetified-emoji2-1.2.0-7 C:\Users\Admin\.gradle\caches\8.13\transforms\6be7a736ea2ccc37e216583c405ff20f\transformed\jetified-emoji2-1.2.0\res
+com.example.hotelapp-lifecycle-viewmodel-2.5.1-8 C:\Users\Admin\.gradle\caches\8.13\transforms\7a6909f8129cd02211a25b51032048dd\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.hotelapp-cardview-1.0.0-9 C:\Users\Admin\.gradle\caches\8.13\transforms\7cc47f0b94bc2d3b8b4978daea54b4a6\transformed\cardview-1.0.0\res
+com.example.hotelapp-lifecycle-runtime-2.5.1-10 C:\Users\Admin\.gradle\caches\8.13\transforms\7d380a07dd2b8544e382890b9d16178d\transformed\lifecycle-runtime-2.5.1\res
+com.example.hotelapp-jetified-activity-1.6.0-11 C:\Users\Admin\.gradle\caches\8.13\transforms\815bac77538ac6911629d0f648251d35\transformed\jetified-activity-1.6.0\res
+com.example.hotelapp-jetified-startup-runtime-1.1.1-12 C:\Users\Admin\.gradle\caches\8.13\transforms\84d069a39a698d83f68e959af3957ac9\transformed\jetified-startup-runtime-1.1.1\res
+com.example.hotelapp-constraintlayout-2.1.4-13 C:\Users\Admin\.gradle\caches\8.13\transforms\87e43435ce33191505b939651d5c3977\transformed\constraintlayout-2.1.4\res
+com.example.hotelapp-jetified-viewpager2-1.0.0-14 C:\Users\Admin\.gradle\caches\8.13\transforms\ae13a4a44301555948a280caac6f6ca5\transformed\jetified-viewpager2-1.0.0\res
+com.example.hotelapp-fragment-1.3.6-15 C:\Users\Admin\.gradle\caches\8.13\transforms\b2b51d126e37203b48917e44547dfe3c\transformed\fragment-1.3.6\res
+com.example.hotelapp-jetified-appcompat-resources-1.6.1-16 C:\Users\Admin\.gradle\caches\8.13\transforms\b4c2f232c25679f8bdf1bf2ed510f93e\transformed\jetified-appcompat-resources-1.6.1\res
+com.example.hotelapp-jetified-emoji2-views-helper-1.2.0-17 C:\Users\Admin\.gradle\caches\8.13\transforms\b5fb488311b07c26df133acefd138fd8\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.hotelapp-jetified-core-ktx-1.9.0-18 C:\Users\Admin\.gradle\caches\8.13\transforms\bd870d939b0afb6615c53c355d391ec1\transformed\jetified-core-ktx-1.9.0\res
+com.example.hotelapp-jetified-savedstate-1.2.0-19 C:\Users\Admin\.gradle\caches\8.13\transforms\c90aca401658f396b88744420d35f746\transformed\jetified-savedstate-1.2.0\res
+com.example.hotelapp-coordinatorlayout-1.1.0-20 C:\Users\Admin\.gradle\caches\8.13\transforms\c93eb4a10584a67a2de19ad71b218bda\transformed\coordinatorlayout-1.1.0\res
+com.example.hotelapp-lifecycle-livedata-core-2.5.1-21 C:\Users\Admin\.gradle\caches\8.13\transforms\e67d0a780a0209060d1f646f722f476c\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.hotelapp-transition-1.2.0-22 C:\Users\Admin\.gradle\caches\8.13\transforms\e95208fe0bad29e64f20a4fff192163a\transformed\transition-1.2.0\res
+com.example.hotelapp-jetified-lifecycle-process-2.4.1-23 C:\Users\Admin\.gradle\caches\8.13\transforms\f085e8d76a3b31b3d1865d26fc311e3b\transformed\jetified-lifecycle-process-2.4.1\res
+com.example.hotelapp-material-1.9.0-24 C:\Users\Admin\.gradle\caches\8.13\transforms\ff5034a681d5c87f0fb2cd954c2253bd\transformed\material-1.9.0\res
+com.example.hotelapp-pngs-25 C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\build\generated\res\pngs\release
+com.example.hotelapp-resValues-26 C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\build\generated\res\resValues\release
+com.example.hotelapp-updated_navigation_xml-27 C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\build\generated\updated_navigation_xml\release
+com.example.hotelapp-packageReleaseResources-28 C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.hotelapp-packageReleaseResources-29 C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.hotelapp-release-30 C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.hotelapp-main-31 C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\main\res
+com.example.hotelapp-release-32 C:\Users\Admin\OneDrive\Session 5\Projet 5\HotelBooking\HotelBooking\android-app\app\src\release\res
